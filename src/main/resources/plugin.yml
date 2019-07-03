@@ -1,0 +1,5 @@
+name: Emotes
+main: me.intelligence.emotes.Emotes
+version: 1.0
+author: Intelligence
+depend: [IntelAPI]
